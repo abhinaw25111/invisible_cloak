@@ -10,10 +10,6 @@ You need to have opencv and numpy installed in your machine:
 
 pip install opencv-python
 
-2nd
-Open the Day 2 Project - Invisible Cloak Folder .
-
-You can see there one.py file.
-
-stream.py
+2nd:
+Open invisible cloak Project folder - stream.py
 Open those files in Your favorite Code editor (Recommended: Pycharm, Atom or Vscode)
